@@ -4,6 +4,6 @@ A tic tac toe game with python
 ---------
 | _ O X |
 | O X _ |
-| X _ O |
+| X O _ |
 ---------
 
